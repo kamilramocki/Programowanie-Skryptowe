@@ -1,6 +1,6 @@
 import requests
 
-ipstack_api_key = "43963cd91845a30c3ef783e2190dd2c8"
+ipstack_api_key = "YOUR_API_KEY"
 
 
 def get_location(ip):
